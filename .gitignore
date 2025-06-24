@@ -93,4 +93,4 @@ crashlytics-build.properties
 *.blend[1-9]
 *.blend~
 
-
+*.spp
